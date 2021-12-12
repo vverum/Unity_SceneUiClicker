@@ -1,0 +1,37 @@
+{
+  "name": "com.vverum.sceneuiclicker",
+  "displayName": "SceneUiClicker",
+  "version": "0.1.0",
+  "unity": "2019.4",
+  "unityRelease": "0f1",
+  "description": "Use runtime ui in scene view.",
+  "type": "tool",
+  "author": {
+    "name": "Dawid Sobala",
+    "email": "vverum.com@gmail.com",
+    "url": "https://github.com/vverum"
+  },
+  "keywords": [
+    "UI",
+    "Editor",
+    "Scene",
+    "runtime",
+    "click",
+    "press"
+  ],
+  "files": [
+    "/CHANGELOG.md",
+    "/CHANGELOG.md.meta",
+    "/LICENSE.md",
+    "/LICENSE.md.meta",
+    "/package.json",
+    "/package.json.meta",
+    "/README.md",
+    "/README.md.meta",
+    "/Third Party Notices.md",
+    "/Third Party Notices.md.meta",
+    "/Editor",
+    "/Editor.meta",
+    "/Documentation~"
+  ]
+}

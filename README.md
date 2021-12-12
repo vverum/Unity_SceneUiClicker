@@ -1,31 +1,34 @@
-# RefinedGitSettingsForUnity
-These git settings were refined during many months of work on one large project.<br />
-They are still work in progress.
+# Scene Ui Clicker
 
+The **Scene Ui Clicker** lets use runtime ui in editor scene view.
 
-# License:
+## Overview
 
-This is free and unencumbered software released into the public domain.
+TODO
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+## Installation
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+### Latest steps available at [Unity manual][UnityUPMInstall]
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+### Via Package manager as gitURL
+1. Copy https link to this repository<br/>
+https://github.com/vverum/Unity_SceneUiClicker.git
+2. Open package manager in unity 
+3. Press Add button (+ in the upper left corner) and select `Add package from git URL...`
+4. Paste link and press `add`
 
-For more information, please refer to <http://unlicense.org>
+### Via Package manager as local file
+1. Download package (tgz file) from [releases](https://github.com/vverum/Unity_SceneUiClicker/releases)
+2. Move file to project location
+3. Open package manager in unity 
+4. Press Add button (+ in the upper left corner) and select `Add package from tarball...`
+5. Select package file
+
+## This tool is Open Sourced
+[github.com/vverum/Unity_SceneUiClicker][GitRepoLink]
+
+## LICENSE: Modified MIT License (MIT)
+This project's license is available in the provided "[LICENSE.md](LICENSE.md)" file.
+
+[GitRepoLink]: https://github.com/vverum/Unity_SceneUiClicker.git
+[UnityUPMInstall]: https://docs.unity3d.com/Manual/upm-ui-giturl.html
